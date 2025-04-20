@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: dylanhook CS2 Lua API
+  structure:
+    - type: space
+      key: space-lua-api
+      title: Lua API
+      path: lua-api
+      default: true
+      content:
+        directory: ./
+        language: en

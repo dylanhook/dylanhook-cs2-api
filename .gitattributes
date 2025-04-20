@@ -1,0 +1,5 @@
+# GitBook consumes repository text directly; pin the published formats to LF.
+* text=auto
+*.md text eol=lf
+*.yaml text eol=lf
+*.lua text eol=lf
